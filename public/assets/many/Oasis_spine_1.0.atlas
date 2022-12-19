@@ -1,0 +1,2767 @@
+
+Oasis_spine_1.0.png
+size: 19, 28
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+shield2
+  rotate: false
+  xy: 2, 5
+  size: 15, 21
+  orig: 17, 23
+  offset: 1, 1
+  index: -1
+shield3
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shield4
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shield5
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+Oasis_spine_1.0_2.png
+size: 126, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+birthday_boy/Body_1
+  rotate: false
+  xy: 92, 9
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+birthday_boy/Body_2
+  rotate: false
+  xy: 92, 9
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+birthday_boy/Body_back_1
+  rotate: false
+  xy: 106, 9
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+birthday_boy/Body_back_2
+  rotate: false
+  xy: 106, 9
+  size: 12, 11
+  orig: 14, 13
+  offset: 1, 1
+  index: -1
+birthday_boy/Eye_1
+  rotate: true
+  xy: 51, 5
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+birthday_boy/Eye_2
+  rotate: true
+  xy: 51, 5
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+birthday_boy/Eye_emote2
+  rotate: true
+  xy: 51, 5
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+birthday_boy/Eye_emote3
+  rotate: true
+  xy: 51, 5
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+birthday_boy/Eye_3
+  rotate: false
+  xy: 77, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+birthday_boy/Eye_emote1
+  rotate: false
+  xy: 2, 22
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+birthday_boy/Float
+  rotate: true
+  xy: 116, 24
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+birthday_boy/Hair_back
+  rotate: true
+  xy: 2, 2
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+birthday_boy/Hair_backface_1
+  rotate: false
+  xy: 28, 4
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+birthday_boy/Hair_backface_2
+  rotate: false
+  xy: 28, 4
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+birthday_boy/Hat_accs
+  rotate: false
+  xy: 77, 11
+  size: 13, 13
+  orig: 19, 14
+  offset: 3, 0
+  index: -1
+birthday_boy/L_Hand
+  rotate: false
+  xy: 90, 2
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+birthday_boy/L_Leg
+  rotate: true
+  xy: 120, 17
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+birthday_boy/R_Leg
+  rotate: true
+  xy: 120, 17
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+birthday_boy/Mouth_1
+  rotate: true
+  xy: 58, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+birthday_boy/Mouth_2
+  rotate: true
+  xy: 58, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+birthday_boy/Mouth_3
+  rotate: true
+  xy: 58, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+birthday_boy/Mouth_emote1
+  rotate: true
+  xy: 58, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+birthday_boy/Mouth_emote2
+  rotate: true
+  xy: 58, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+birthday_boy/Mouth_emote3
+  rotate: true
+  xy: 58, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+birthday_boy/R_Hand
+  rotate: false
+  xy: 97, 2
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+birthday_boy/Shield
+  rotate: true
+  xy: 94, 29
+  size: 15, 20
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+birthday_boy/Weapon
+  rotate: true
+  xy: 28, 18
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1
+birthday_boy/hair_1
+  rotate: false
+  xy: 26, 26
+  size: 21, 18
+  orig: 23, 20
+  offset: 1, 1
+  index: -1
+birthday_boy/hair_2
+  rotate: false
+  xy: 72, 26
+  size: 20, 18
+  orig: 22, 20
+  offset: 1, 1
+  index: -1
+birthday_boy/hair_backface
+  rotate: false
+  xy: 49, 26
+  size: 21, 18
+  orig: 23, 20
+  offset: 1, 1
+  index: -1
+birthday_boy/head_back
+  rotate: false
+  xy: 58, 7
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+birthday_boy/head_main
+  rotate: false
+  xy: 58, 7
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+birthday_boy/shadow
+  rotate: false
+  xy: 94, 22
+  size: 18, 5
+  orig: 20, 7
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_3.png
+size: 141, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+default_boy/body_1
+  rotate: true
+  xy: 92, 2
+  size: 12, 13
+  orig: 14, 15
+  offset: 1, 1
+  index: -1
+default_boy/body_2
+  rotate: true
+  xy: 107, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy/body_back_1
+  rotate: true
+  xy: 122, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy/body_back_2
+  rotate: false
+  xy: 128, 31
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy/eye_1
+  rotate: false
+  xy: 101, 16
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy/eye_2
+  rotate: false
+  xy: 101, 16
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy/eye_emote2
+  rotate: false
+  xy: 101, 16
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy/eye_emote3
+  rotate: false
+  xy: 101, 16
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy/eye_3
+  rotate: false
+  xy: 74, 23
+  size: 23, 21
+  orig: 25, 23
+  offset: 1, 1
+  index: -1
+default_boy/eye_emote1
+  rotate: false
+  xy: 2, 22
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+default_boy/float
+  rotate: false
+  xy: 51, 4
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+default_boy/hair_1
+  rotate: false
+  xy: 28, 8
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+default_boy/hair_2
+  rotate: false
+  xy: 28, 8
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+default_boy/hair_backface_1
+  rotate: false
+  xy: 28, 8
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+default_boy/hair_backface_2
+  rotate: false
+  xy: 28, 8
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+default_boy/hair_back
+  rotate: true
+  xy: 2, 2
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+default_boy/hat_accs
+  rotate: false
+  xy: 73, 3
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+default_boy/head_1
+  rotate: false
+  xy: 26, 22
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+default_boy/head_2
+  rotate: true
+  xy: 99, 23
+  size: 21, 22
+  orig: 23, 24
+  offset: 1, 1
+  index: -1
+default_boy/head_back_1
+  rotate: false
+  xy: 50, 22
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+default_boy/head_back_2
+  rotate: false
+  xy: 50, 22
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+default_boy/l_hand
+  rotate: false
+  xy: 114, 16
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_boy/l_leg
+  rotate: false
+  xy: 28, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_boy/mouth_1
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_2
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_3
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_emote1
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_emote2
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_emote3
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/r_hand
+  rotate: false
+  xy: 121, 16
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_boy/r_leg
+  rotate: false
+  xy: 35, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_boy/shadow
+  rotate: false
+  xy: 81, 16
+  size: 18, 5
+  orig: 20, 7
+  offset: 1, 1
+  index: -1
+default_boy/shield
+  rotate: false
+  xy: 128, 16
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy/weapon
+  rotate: true
+  xy: 51, 14
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_4.png
+size: 109, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+default_boy_custom/body_1
+  rotate: true
+  xy: 2, 2
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+default_boy_custom/body_2
+  rotate: true
+  xy: 2, 2
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+default_boy_custom/body_back_1
+  rotate: true
+  xy: 82, 3
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+default_boy_custom/body_back_2
+  rotate: true
+  xy: 82, 3
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_1
+  rotate: false
+  xy: 77, 17
+  size: 13, 5
+  orig: 15, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_2
+  rotate: false
+  xy: 62, 22
+  size: 13, 3
+  orig: 15, 5
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_3
+  rotate: true
+  xy: 77, 2
+  size: 13, 3
+  orig: 15, 5
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_emote1
+  rotate: false
+  xy: 94, 15
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_emote2
+  rotate: false
+  xy: 94, 15
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_emote3
+  rotate: false
+  xy: 94, 15
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/float
+  rotate: true
+  xy: 52, 24
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_1
+  rotate: true
+  xy: 62, 27
+  size: 17, 13
+  orig: 19, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_2
+  rotate: true
+  xy: 32, 2
+  size: 18, 13
+  orig: 20, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_back_l
+  rotate: true
+  xy: 77, 24
+  size: 9, 13
+  orig: 11, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_back_r
+  rotate: true
+  xy: 92, 22
+  size: 9, 13
+  orig: 11, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_backface
+  rotate: true
+  xy: 14, 2
+  size: 18, 16
+  orig: 20, 18
+  offset: 1, 1
+  index: -1
+default_boy_custom/hat_accs_back
+  rotate: true
+  xy: 66, 5
+  size: 15, 9
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+default_boy_custom/hat_accs_front
+  rotate: false
+  xy: 77, 35
+  size: 15, 9
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+default_boy_custom/head_back
+  rotate: false
+  xy: 47, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+default_boy_custom/head_main
+  rotate: false
+  xy: 47, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+default_boy_custom/l_hand
+  rotate: false
+  xy: 94, 8
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/l_leg
+  rotate: false
+  xy: 94, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_1
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_2
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_3
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_emote1
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_emote2
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_emote3
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/r_hand
+  rotate: false
+  xy: 101, 8
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/r_leg
+  rotate: false
+  xy: 101, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_boy_custom/shield
+  rotate: true
+  xy: 94, 33
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/vanity_back_backface
+  rotate: true
+  xy: 10, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+default_boy_custom/vanity_back_front
+  rotate: true
+  xy: 31, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+default_boy_custom/weapon
+  rotate: false
+  xy: 2, 16
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_5.png
+size: 85, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+default_naked/body_1
+  rotate: true
+  xy: 2, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_naked/body_2
+  rotate: true
+  xy: 2, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_naked/body_back_backface
+  rotate: true
+  xy: 2, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_naked/body_back_front
+  rotate: true
+  xy: 2, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_naked/eye_1
+  rotate: true
+  xy: 71, 9
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_naked/eye_2
+  rotate: true
+  xy: 71, 9
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_naked/eye_3
+  rotate: true
+  xy: 71, 9
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_naked/eye_emote1
+  rotate: true
+  xy: 71, 9
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_naked/eye_emote2
+  rotate: true
+  xy: 71, 9
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_naked/eye_emote3
+  rotate: true
+  xy: 71, 9
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_naked/float
+  rotate: true
+  xy: 72, 24
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+default_naked/hair_1
+  rotate: true
+  xy: 49, 3
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+default_naked/hair_2
+  rotate: true
+  xy: 49, 3
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+default_naked/hair_back_1
+  rotate: true
+  xy: 49, 3
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+default_naked/hair_back_l
+  rotate: false
+  xy: 10, 20
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+default_naked/hair_back_r
+  rotate: false
+  xy: 10, 20
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+default_naked/hat_accs_back
+  rotate: true
+  xy: 60, 3
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+default_naked/hat_accs_front
+  rotate: true
+  xy: 60, 3
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+default_naked/head_back
+  rotate: false
+  xy: 30, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+default_naked/head_main
+  rotate: false
+  xy: 30, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+default_naked/l_hand
+  rotate: false
+  xy: 71, 2
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_naked/l_leg
+  rotate: true
+  xy: 78, 10
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_naked/mouth_1
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_naked/mouth_2
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_naked/mouth_3
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_naked/mouth_emote1
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_naked/mouth_emote2
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_naked/mouth_emote3
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_naked/r_hand
+  rotate: false
+  xy: 78, 17
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_naked/r_leg
+  rotate: true
+  xy: 78, 3
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_naked/shield
+  rotate: false
+  xy: 17, 5
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_naked/vanity_back_backface
+  rotate: true
+  xy: 30, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+default_naked/vanity_back_front
+  rotate: true
+  xy: 51, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+default_naked/weapon
+  rotate: false
+  xy: 2, 16
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_6.png
+size: 39, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fx/Rainbow/1
+  rotate: false
+  xy: 36, 33
+  size: 1, 11
+  orig: 3, 13
+  offset: 1, 1
+  index: -1
+fx/Rainbow/2
+  rotate: false
+  xy: 28, 2
+  size: 9, 11
+  orig: 11, 13
+  offset: 1, 1
+  index: -1
+fx/Rainbow/3
+  rotate: false
+  xy: 2, 2
+  size: 24, 11
+  orig: 26, 13
+  offset: 1, 1
+  index: -1
+fx/Rainbow/4
+  rotate: false
+  xy: 2, 15
+  size: 28, 12
+  orig: 30, 14
+  offset: 1, 1
+  index: -1
+fx/Rainbow/5
+  rotate: false
+  xy: 2, 29
+  size: 32, 15
+  orig: 34, 17
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_7.png
+size: 29, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fx/Tear/1
+  rotate: false
+  xy: 2, 3
+  size: 8, 6
+  orig: 10, 8
+  offset: 1, 1
+  index: -1
+fx/Tear/2
+  rotate: false
+  xy: 12, 4
+  size: 9, 5
+  orig: 11, 7
+  offset: 1, 1
+  index: -1
+fx/Tear/3
+  rotate: false
+  xy: 23, 5
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+fx/Tear/4
+  rotate: true
+  xy: 23, 2
+  size: 1, 2
+  orig: 3, 4
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_8.png
+size: 21, 21
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/Head
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_9.png
+size: 41, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/ahbeng_eyes/eye_1
+  rotate: false
+  xy: 2, 2
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+head_and_eyes/ahbeng_eyes/eye_2
+  rotate: false
+  xy: 15, 2
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+head_and_eyes/ahbeng_eyes/eye_3
+  rotate: false
+  xy: 28, 2
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_10.png
+size: 70, 22
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/calm_hair/hair_1
+  rotate: false
+  xy: 2, 2
+  size: 21, 18
+  orig: 23, 20
+  offset: 1, 1
+  index: -1
+head_and_eyes/calm_hair/hair_2
+  rotate: false
+  xy: 48, 2
+  size: 20, 18
+  orig: 22, 20
+  offset: 1, 1
+  index: -1
+head_and_eyes/calm_hair/hair_backface
+  rotate: false
+  xy: 25, 2
+  size: 21, 18
+  orig: 23, 20
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_11.png
+size: 44, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/cool_eyes/eye_1
+  rotate: false
+  xy: 2, 2
+  size: 12, 5
+  orig: 14, 7
+  offset: 1, 1
+  index: -1
+head_and_eyes/cool_eyes/eye_2
+  rotate: false
+  xy: 16, 2
+  size: 12, 5
+  orig: 14, 7
+  offset: 1, 1
+  index: -1
+head_and_eyes/cool_eyes/eye_3
+  rotate: false
+  xy: 30, 2
+  size: 12, 5
+  orig: 14, 7
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_12.png
+size: 49, 22
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/dylan_hair/hair_1
+  rotate: true
+  xy: 19, 2
+  size: 18, 13
+  orig: 20, 15
+  offset: 1, 1
+  index: -1
+head_and_eyes/dylan_hair/hair_2
+  rotate: true
+  xy: 34, 3
+  size: 17, 13
+  orig: 19, 15
+  offset: 1, 1
+  index: -1
+head_and_eyes/dylan_hair/hair_backface
+  rotate: true
+  xy: 2, 2
+  size: 18, 15
+  orig: 20, 17
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_13.png
+size: 60, 24
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/elvis_hair/hair_1
+  rotate: true
+  xy: 22, 2
+  size: 20, 17
+  orig: 22, 19
+  offset: 1, 1
+  index: -1
+head_and_eyes/elvis_hair/hair_2
+  rotate: true
+  xy: 41, 2
+  size: 20, 17
+  orig: 22, 19
+  offset: 1, 1
+  index: -1
+head_and_eyes/elvis_hair/hair_backface
+  rotate: true
+  xy: 2, 2
+  size: 20, 18
+  orig: 22, 20
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_14.png
+size: 18, 23
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/lashed_eyes/eye_1
+  rotate: false
+  xy: 2, 16
+  size: 14, 5
+  orig: 16, 7
+  offset: 1, 1
+  index: -1
+head_and_eyes/lashed_eyes/eye_2
+  rotate: false
+  xy: 2, 9
+  size: 14, 5
+  orig: 16, 7
+  offset: 1, 1
+  index: -1
+head_and_eyes/lashed_eyes/eye_3
+  rotate: false
+  xy: 2, 2
+  size: 14, 5
+  orig: 16, 7
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_15.png
+size: 41, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/lazy_eyes/eye_1
+  rotate: false
+  xy: 2, 2
+  size: 11, 6
+  orig: 13, 8
+  offset: 1, 1
+  index: -1
+head_and_eyes/lazy_eyes/eye_2
+  rotate: false
+  xy: 15, 2
+  size: 11, 6
+  orig: 13, 8
+  offset: 1, 1
+  index: -1
+head_and_eyes/lazy_eyes/eye_3
+  rotate: false
+  xy: 28, 2
+  size: 11, 6
+  orig: 13, 8
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_16.png
+size: 41, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/moody_eyes/eye_1
+  rotate: false
+  xy: 28, 2
+  size: 11, 4
+  orig: 13, 6
+  offset: 1, 1
+  index: -1
+head_and_eyes/moody_eyes/eye_2
+  rotate: false
+  xy: 2, 3
+  size: 11, 3
+  orig: 13, 5
+  offset: 1, 1
+  index: -1
+head_and_eyes/moody_eyes/eye_3
+  rotate: false
+  xy: 15, 3
+  size: 11, 3
+  orig: 13, 5
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_17.png
+size: 16, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/relax_eyes/eye_1
+  rotate: false
+  xy: 2, 9
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+head_and_eyes/relax_eyes/eye_2
+  rotate: false
+  xy: 2, 2
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_18.png
+size: 47, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/sinister_eyes/eye_1
+  rotate: false
+  xy: 2, 2
+  size: 13, 7
+  orig: 15, 9
+  offset: 1, 1
+  index: -1
+head_and_eyes/sinister_eyes/eye_2
+  rotate: false
+  xy: 17, 2
+  size: 13, 7
+  orig: 15, 9
+  offset: 1, 1
+  index: -1
+head_and_eyes/sinister_eyes/eye_3
+  rotate: false
+  xy: 32, 2
+  size: 13, 7
+  orig: 15, 9
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_19.png
+size: 61, 25
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/spikey_hair/hair_1
+  rotate: true
+  xy: 2, 2
+  size: 21, 17
+  orig: 23, 19
+  offset: 1, 1
+  index: -1
+head_and_eyes/spikey_hair/hair_2
+  rotate: true
+  xy: 21, 2
+  size: 21, 17
+  orig: 23, 19
+  offset: 1, 1
+  index: -1
+head_and_eyes/spikey_hair/hair_backface
+  rotate: false
+  xy: 40, 4
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_20.png
+size: 17, 19
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head_and_eyes/sweet_eyes/eye_1
+  rotate: false
+  xy: 2, 12
+  size: 13, 5
+  orig: 15, 7
+  offset: 1, 1
+  index: -1
+head_and_eyes/sweet_eyes/eye_2
+  rotate: false
+  xy: 2, 7
+  size: 13, 3
+  orig: 15, 5
+  offset: 1, 1
+  index: -1
+head_and_eyes/sweet_eyes/eye_3
+  rotate: false
+  xy: 2, 2
+  size: 13, 3
+  orig: 15, 5
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_21.png
+size: 76, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+npc/gamezone/dancer/body_1
+  rotate: false
+  xy: 56, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/body_2
+  rotate: true
+  xy: 57, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/body_back_backface
+  rotate: true
+  xy: 57, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/body_back_front
+  rotate: true
+  xy: 57, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_1
+  rotate: false
+  xy: 43, 2
+  size: 12, 5
+  orig: 14, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_2
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_3
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_emote1
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_emote2
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_emote3
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/float
+  rotate: true
+  xy: 23, 24
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hair_1
+  rotate: true
+  xy: 2, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hair_2
+  rotate: true
+  xy: 21, 3
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hair_back_l
+  rotate: false
+  xy: 46, 30
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hair_back_r
+  rotate: false
+  xy: 56, 30
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hat_accs_back
+  rotate: true
+  xy: 32, 5
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hat_accs_front
+  rotate: true
+  xy: 32, 5
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/head_back
+  rotate: false
+  xy: 2, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/head_main
+  rotate: false
+  xy: 2, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/l_hand
+  rotate: false
+  xy: 69, 26
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/l_leg
+  rotate: false
+  xy: 33, 24
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/r_leg
+  rotate: false
+  xy: 33, 24
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_1
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_3
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_emote1
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_emote2
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_emote3
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_2
+  rotate: false
+  xy: 44, 26
+  size: 5, 2
+  orig: 7, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/r_hand
+  rotate: false
+  xy: 69, 19
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/shield
+  rotate: false
+  xy: 33, 30
+  size: 11, 14
+  orig: 13, 16
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/weapon
+  rotate: false
+  xy: 43, 9
+  size: 11, 14
+  orig: 13, 16
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_22.png
+size: 148, 30
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+npc/gamezone/NPC-28-Pink_Idol/body_1
+  rotate: true
+  xy: 113, 13
+  size: 15, 13
+  orig: 17, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/body_2
+  rotate: false
+  xy: 128, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/body_back_backface
+  rotate: false
+  xy: 128, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/body_back_front
+  rotate: false
+  xy: 128, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/eye_1
+  rotate: false
+  xy: 109, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/eye_3
+  rotate: false
+  xy: 109, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/eye_emote1
+  rotate: false
+  xy: 109, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/eye_emote2
+  rotate: false
+  xy: 109, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/eye_emote3
+  rotate: false
+  xy: 109, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/eye_2
+  rotate: false
+  xy: 95, 4
+  size: 12, 5
+  orig: 14, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/float
+  rotate: true
+  xy: 62, 8
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/hair_1
+  rotate: true
+  xy: 2, 2
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/hair_2
+  rotate: true
+  xy: 91, 11
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/hair_back_l
+  rotate: false
+  xy: 20, 4
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/hair_back_r
+  rotate: true
+  xy: 40, 5
+  size: 23, 20
+  orig: 25, 22
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/hat_accs_back
+  rotate: true
+  xy: 102, 11
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/hat_accs_front
+  rotate: false
+  xy: 76, 4
+  size: 17, 5
+  orig: 19, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/head_back
+  rotate: false
+  xy: 72, 11
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/head_main
+  rotate: false
+  xy: 72, 11
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/l_hand
+  rotate: false
+  xy: 122, 6
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/l_leg
+  rotate: false
+  xy: 62, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/mouth_1
+  rotate: false
+  xy: 122, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/mouth_2
+  rotate: false
+  xy: 122, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/mouth_3
+  rotate: false
+  xy: 122, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/mouth_emote1
+  rotate: false
+  xy: 122, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/mouth_emote2
+  rotate: false
+  xy: 122, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/mouth_emote3
+  rotate: false
+  xy: 122, 2
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/r_hand
+  rotate: false
+  xy: 141, 23
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/r_leg
+  rotate: false
+  xy: 69, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/shield
+  rotate: true
+  xy: 129, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC-28-Pink_Idol/weapon
+  rotate: false
+  xy: 141, 16
+  size: 3, 5
+  orig: 5, 7
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_23.png
+size: 138, 30
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+npc/gamezone/NPC30 - punk/body_1
+  rotate: false
+  xy: 112, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/body_2
+  rotate: true
+  xy: 122, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/body_back_backface
+  rotate: true
+  xy: 122, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/body_back_front
+  rotate: true
+  xy: 122, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/eye_1
+  rotate: false
+  xy: 71, 3
+  size: 11, 6
+  orig: 13, 8
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/eye_2
+  rotate: false
+  xy: 79, 13
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/eye_3
+  rotate: false
+  xy: 79, 13
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/eye_emote1
+  rotate: false
+  xy: 79, 13
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/eye_emote2
+  rotate: false
+  xy: 79, 13
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/eye_emote3
+  rotate: false
+  xy: 79, 13
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/float
+  rotate: false
+  xy: 79, 20
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/hair_1
+  rotate: true
+  xy: 22, 4
+  size: 24, 17
+  orig: 26, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/hair_2
+  rotate: false
+  xy: 84, 2
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/hair_back_l
+  rotate: false
+  xy: 2, 4
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/hair_back_r
+  rotate: false
+  xy: 2, 4
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/hat_accs_back
+  rotate: false
+  xy: 103, 2
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/hat_accs_front
+  rotate: false
+  xy: 103, 2
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/head_back
+  rotate: false
+  xy: 41, 11
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/head_main
+  rotate: false
+  xy: 60, 11
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/l_hand
+  rotate: false
+  xy: 92, 13
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/l_leg
+  rotate: true
+  xy: 101, 23
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/mouth_1
+  rotate: true
+  xy: 107, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/mouth_2
+  rotate: true
+  xy: 107, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/mouth_3
+  rotate: true
+  xy: 107, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/mouth_emote1
+  rotate: true
+  xy: 107, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/mouth_emote2
+  rotate: true
+  xy: 107, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/mouth_emote3
+  rotate: true
+  xy: 107, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/r_hand
+  rotate: false
+  xy: 99, 13
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/r_leg
+  rotate: true
+  xy: 106, 16
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/shield
+  rotate: false
+  xy: 125, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/NPC30 - punk/weapon
+  rotate: true
+  xy: 41, 3
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_24.png
+size: 135, 30
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+npc/gamezone/pampadour/body_1
+  rotate: false
+  xy: 109, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/body_2
+  rotate: true
+  xy: 114, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/body_back_backface
+  rotate: true
+  xy: 114, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/body_back_front
+  rotate: true
+  xy: 114, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/eye_1
+  rotate: false
+  xy: 39, 2
+  size: 10, 4
+  orig: 12, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/eye_2
+  rotate: false
+  xy: 81, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/eye_3
+  rotate: false
+  xy: 81, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/eye_emote1
+  rotate: false
+  xy: 81, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/eye_emote2
+  rotate: false
+  xy: 81, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/eye_emote3
+  rotate: false
+  xy: 81, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/float
+  rotate: true
+  xy: 39, 8
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/hair_1
+  rotate: true
+  xy: 22, 5
+  size: 23, 15
+  orig: 25, 17
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/hair_2
+  rotate: true
+  xy: 87, 11
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/hair_back_l
+  rotate: false
+  xy: 2, 4
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/hair_back_r
+  rotate: false
+  xy: 2, 4
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/hat_accs_back
+  rotate: true
+  xy: 98, 11
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/hat_accs_front
+  rotate: true
+  xy: 98, 11
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/head_back
+  rotate: false
+  xy: 49, 11
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/head_main
+  rotate: false
+  xy: 68, 11
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/l_hand
+  rotate: false
+  xy: 94, 4
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/l_leg
+  rotate: true
+  xy: 108, 4
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/mouth_1
+  rotate: false
+  xy: 109, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/mouth_2
+  rotate: false
+  xy: 109, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/mouth_3
+  rotate: false
+  xy: 109, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/mouth_emote1
+  rotate: false
+  xy: 109, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/mouth_emote2
+  rotate: false
+  xy: 109, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/mouth_emote3
+  rotate: false
+  xy: 109, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/r_hand
+  rotate: false
+  xy: 101, 4
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/r_leg
+  rotate: true
+  xy: 129, 8
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/shield
+  rotate: false
+  xy: 122, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/pampadour/weapon
+  rotate: true
+  xy: 51, 3
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_25.png
+size: 106, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+npc/pumpkinhead/body_1
+  rotate: false
+  xy: 17, 2
+  size: 14, 16
+  orig: 16, 18
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/body_2
+  rotate: false
+  xy: 17, 2
+  size: 14, 16
+  orig: 16, 18
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/body_back_backface
+  rotate: true
+  xy: 2, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/body_back_front
+  rotate: true
+  xy: 2, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/eye_1
+  rotate: false
+  xy: 84, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/eye_2
+  rotate: false
+  xy: 84, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/eye_3
+  rotate: false
+  xy: 84, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/eye_emote1
+  rotate: false
+  xy: 84, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/eye_emote2
+  rotate: false
+  xy: 84, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/eye_emote3
+  rotate: false
+  xy: 84, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/float
+  rotate: true
+  xy: 72, 24
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/hair_1
+  rotate: true
+  xy: 73, 5
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/hair_2
+  rotate: true
+  xy: 73, 5
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/hair_back_1
+  rotate: true
+  xy: 73, 5
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/hair_back_l
+  rotate: false
+  xy: 10, 20
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/hair_back_r
+  rotate: false
+  xy: 10, 20
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/hat_accs_back
+  rotate: true
+  xy: 82, 27
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/hat_accs_front
+  rotate: true
+  xy: 82, 27
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/head_back
+  rotate: false
+  xy: 54, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/head_main
+  rotate: true
+  xy: 33, 2
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/l_hand
+  rotate: false
+  xy: 95, 24
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/l_leg
+  rotate: true
+  xy: 95, 17
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/mouth_1
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/mouth_2
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/mouth_3
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/mouth_emote1
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/mouth_emote2
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/mouth_emote3
+  rotate: false
+  xy: 10, 16
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/r_hand
+  rotate: false
+  xy: 84, 11
+  size: 9, 14
+  orig: 11, 16
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/r_leg
+  rotate: false
+  xy: 95, 11
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/shield
+  rotate: false
+  xy: 93, 31
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/vanity_back_backface
+  rotate: true
+  xy: 30, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/vanity_back_front
+  rotate: true
+  xy: 51, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+npc/pumpkinhead/weapon
+  rotate: false
+  xy: 2, 16
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_26.png
+size: 119, 30
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+seasonal_skin/zombie_boy/body_1
+  rotate: false
+  xy: 91, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/body_2
+  rotate: false
+  xy: 91, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/body_back_backface
+  rotate: true
+  xy: 97, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/body_back_front
+  rotate: true
+  xy: 97, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/eye_1
+  rotate: false
+  xy: 79, 4
+  size: 9, 5
+  orig: 11, 7
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/eye_3
+  rotate: false
+  xy: 79, 4
+  size: 9, 5
+  orig: 11, 7
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/eye_emote1
+  rotate: false
+  xy: 79, 4
+  size: 9, 5
+  orig: 11, 7
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/eye_2
+  rotate: false
+  xy: 66, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/eye_emote2
+  rotate: false
+  xy: 66, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/eye_emote3
+  rotate: false
+  xy: 66, 4
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/float
+  rotate: true
+  xy: 22, 8
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/hair_1
+  rotate: true
+  xy: 69, 11
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/hair_2
+  rotate: true
+  xy: 69, 11
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/hair_back_l
+  rotate: false
+  xy: 2, 4
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/hair_back_r
+  rotate: false
+  xy: 2, 4
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/hat_accs_back
+  rotate: true
+  xy: 80, 11
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/hat_accs_front
+  rotate: true
+  xy: 80, 11
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/head_back
+  rotate: false
+  xy: 51, 11
+  size: 16, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/head_main
+  rotate: false
+  xy: 32, 11
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/l_hand
+  rotate: false
+  xy: 90, 4
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/l_leg
+  rotate: false
+  xy: 22, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/mouth_1
+  rotate: true
+  xy: 112, 3
+  size: 3, 5
+  orig: 5, 7
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/mouth_2
+  rotate: false
+  xy: 91, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/mouth_3
+  rotate: false
+  xy: 91, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/mouth_emote1
+  rotate: false
+  xy: 91, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/mouth_emote2
+  rotate: false
+  xy: 91, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/mouth_emote3
+  rotate: false
+  xy: 91, 11
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/r_hand
+  rotate: false
+  xy: 112, 8
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/r_leg
+  rotate: false
+  xy: 29, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/shield
+  rotate: false
+  xy: 104, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+seasonal_skin/zombie_boy/weapon
+  rotate: true
+  xy: 36, 3
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1

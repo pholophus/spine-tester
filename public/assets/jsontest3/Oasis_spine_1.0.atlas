@@ -1,0 +1,298 @@
+
+Oasis_spine_1.0.png
+size: 39, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fx/Rainbow/1
+  rotate: false
+  xy: 36, 33
+  size: 1, 11
+  orig: 3, 13
+  offset: 1, 1
+  index: -1
+fx/Rainbow/2
+  rotate: false
+  xy: 28, 2
+  size: 9, 11
+  orig: 11, 13
+  offset: 1, 1
+  index: -1
+fx/Rainbow/3
+  rotate: false
+  xy: 2, 2
+  size: 24, 11
+  orig: 26, 13
+  offset: 1, 1
+  index: -1
+fx/Rainbow/4
+  rotate: false
+  xy: 2, 15
+  size: 28, 12
+  orig: 30, 14
+  offset: 1, 1
+  index: -1
+fx/Rainbow/5
+  rotate: false
+  xy: 2, 29
+  size: 32, 15
+  orig: 34, 17
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_2.png
+size: 29, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fx/Tear/1
+  rotate: false
+  xy: 2, 3
+  size: 8, 6
+  orig: 10, 8
+  offset: 1, 1
+  index: -1
+fx/Tear/2
+  rotate: false
+  xy: 12, 4
+  size: 9, 5
+  orig: 11, 7
+  offset: 1, 1
+  index: -1
+fx/Tear/3
+  rotate: false
+  xy: 23, 5
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+fx/Tear/4
+  rotate: true
+  xy: 23, 2
+  size: 1, 2
+  orig: 3, 4
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_3.png
+size: 76, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+npc/gamezone/dancer/body_1
+  rotate: false
+  xy: 56, 15
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/body_2
+  rotate: true
+  xy: 57, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/body_back_backface
+  rotate: true
+  xy: 57, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/body_back_front
+  rotate: true
+  xy: 57, 2
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_1
+  rotate: false
+  xy: 43, 2
+  size: 12, 5
+  orig: 14, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_2
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_3
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_emote1
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_emote2
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/eye_emote3
+  rotate: true
+  xy: 66, 33
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/float
+  rotate: true
+  xy: 23, 24
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hair_1
+  rotate: true
+  xy: 2, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hair_2
+  rotate: true
+  xy: 21, 3
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hair_back_l
+  rotate: false
+  xy: 46, 30
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hair_back_r
+  rotate: false
+  xy: 56, 30
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hat_accs_back
+  rotate: true
+  xy: 32, 5
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/hat_accs_front
+  rotate: true
+  xy: 32, 5
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/head_back
+  rotate: false
+  xy: 2, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/head_main
+  rotate: false
+  xy: 2, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/l_hand
+  rotate: false
+  xy: 69, 26
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/l_leg
+  rotate: false
+  xy: 33, 24
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/r_leg
+  rotate: false
+  xy: 33, 24
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_1
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_3
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_emote1
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_emote2
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_emote3
+  rotate: true
+  xy: 40, 25
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/mouth_2
+  rotate: false
+  xy: 44, 26
+  size: 5, 2
+  orig: 7, 4
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/r_hand
+  rotate: false
+  xy: 69, 19
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/shield
+  rotate: false
+  xy: 33, 30
+  size: 11, 14
+  orig: 13, 16
+  offset: 1, 1
+  index: -1
+npc/gamezone/dancer/weapon
+  rotate: false
+  xy: 43, 9
+  size: 11, 14
+  orig: 13, 16
+  offset: 1, 1
+  index: -1

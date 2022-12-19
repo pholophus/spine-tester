@@ -1,0 +1,563 @@
+
+Oasis_spine_1.0.png
+size: 141, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+default_boy/body_1
+  rotate: true
+  xy: 92, 2
+  size: 12, 13
+  orig: 14, 15
+  offset: 1, 1
+  index: -1
+default_boy/body_2
+  rotate: true
+  xy: 107, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy/body_back_1
+  rotate: true
+  xy: 122, 3
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy/body_back_2
+  rotate: false
+  xy: 128, 31
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy/eye_1
+  rotate: false
+  xy: 101, 16
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy/eye_2
+  rotate: false
+  xy: 101, 16
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy/eye_emote2
+  rotate: false
+  xy: 101, 16
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy/eye_emote3
+  rotate: false
+  xy: 101, 16
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy/eye_3
+  rotate: false
+  xy: 74, 23
+  size: 23, 21
+  orig: 25, 23
+  offset: 1, 1
+  index: -1
+default_boy/eye_emote1
+  rotate: false
+  xy: 2, 22
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+default_boy/float
+  rotate: false
+  xy: 51, 4
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+default_boy/hair_1
+  rotate: false
+  xy: 28, 8
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+default_boy/hair_2
+  rotate: false
+  xy: 28, 8
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+default_boy/hair_backface_1
+  rotate: false
+  xy: 28, 8
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+default_boy/hair_backface_2
+  rotate: false
+  xy: 28, 8
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+default_boy/hair_back
+  rotate: true
+  xy: 2, 2
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+default_boy/hat_accs
+  rotate: false
+  xy: 73, 3
+  size: 17, 9
+  orig: 19, 11
+  offset: 1, 1
+  index: -1
+default_boy/head_1
+  rotate: false
+  xy: 26, 22
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+default_boy/head_2
+  rotate: true
+  xy: 99, 23
+  size: 21, 22
+  orig: 23, 24
+  offset: 1, 1
+  index: -1
+default_boy/head_back_1
+  rotate: false
+  xy: 50, 22
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+default_boy/head_back_2
+  rotate: false
+  xy: 50, 22
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+default_boy/l_hand
+  rotate: false
+  xy: 114, 16
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_boy/l_leg
+  rotate: false
+  xy: 28, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_boy/mouth_1
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_2
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_3
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_emote1
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_emote2
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/mouth_emote3
+  rotate: true
+  xy: 42, 3
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy/r_hand
+  rotate: false
+  xy: 121, 16
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_boy/r_leg
+  rotate: false
+  xy: 35, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_boy/shadow
+  rotate: false
+  xy: 81, 16
+  size: 18, 5
+  orig: 20, 7
+  offset: 1, 1
+  index: -1
+default_boy/shield
+  rotate: false
+  xy: 128, 16
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy/weapon
+  rotate: true
+  xy: 51, 14
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_2.png
+size: 109, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+default_boy_custom/body_1
+  rotate: true
+  xy: 2, 2
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+default_boy_custom/body_2
+  rotate: true
+  xy: 2, 2
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+default_boy_custom/body_back_1
+  rotate: true
+  xy: 82, 3
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+default_boy_custom/body_back_2
+  rotate: true
+  xy: 82, 3
+  size: 12, 10
+  orig: 14, 12
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_1
+  rotate: false
+  xy: 77, 17
+  size: 13, 5
+  orig: 15, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_2
+  rotate: false
+  xy: 62, 22
+  size: 13, 3
+  orig: 15, 5
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_3
+  rotate: true
+  xy: 77, 2
+  size: 13, 3
+  orig: 15, 5
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_emote1
+  rotate: false
+  xy: 94, 15
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_emote2
+  rotate: false
+  xy: 94, 15
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/eye_emote3
+  rotate: false
+  xy: 94, 15
+  size: 11, 5
+  orig: 13, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/float
+  rotate: true
+  xy: 52, 24
+  size: 20, 8
+  orig: 22, 10
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_1
+  rotate: true
+  xy: 62, 27
+  size: 17, 13
+  orig: 19, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_2
+  rotate: true
+  xy: 32, 2
+  size: 18, 13
+  orig: 20, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_back_l
+  rotate: true
+  xy: 77, 24
+  size: 9, 13
+  orig: 11, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_back_r
+  rotate: true
+  xy: 92, 22
+  size: 9, 13
+  orig: 11, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/hair_backface
+  rotate: true
+  xy: 14, 2
+  size: 18, 16
+  orig: 20, 18
+  offset: 1, 1
+  index: -1
+default_boy_custom/hat_accs_back
+  rotate: true
+  xy: 66, 5
+  size: 15, 9
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+default_boy_custom/hat_accs_front
+  rotate: false
+  xy: 77, 35
+  size: 15, 9
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+default_boy_custom/head_back
+  rotate: false
+  xy: 47, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+default_boy_custom/head_main
+  rotate: false
+  xy: 47, 3
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+default_boy_custom/l_hand
+  rotate: false
+  xy: 94, 8
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/l_leg
+  rotate: false
+  xy: 94, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_1
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_2
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_3
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_emote1
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_emote2
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/mouth_emote3
+  rotate: true
+  xy: 10, 17
+  size: 3, 2
+  orig: 5, 4
+  offset: 1, 1
+  index: -1
+default_boy_custom/r_hand
+  rotate: false
+  xy: 101, 8
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+default_boy_custom/r_leg
+  rotate: false
+  xy: 101, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+default_boy_custom/shield
+  rotate: true
+  xy: 94, 33
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+default_boy_custom/vanity_back_backface
+  rotate: true
+  xy: 10, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+default_boy_custom/vanity_back_front
+  rotate: true
+  xy: 31, 22
+  size: 22, 19
+  orig: 24, 21
+  offset: 1, 1
+  index: -1
+default_boy_custom/weapon
+  rotate: false
+  xy: 2, 16
+  size: 6, 28
+  orig: 8, 30
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_3.png
+size: 39, 46
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fx/Rainbow/1
+  rotate: false
+  xy: 36, 33
+  size: 1, 11
+  orig: 3, 13
+  offset: 1, 1
+  index: -1
+fx/Rainbow/2
+  rotate: false
+  xy: 28, 2
+  size: 9, 11
+  orig: 11, 13
+  offset: 1, 1
+  index: -1
+fx/Rainbow/3
+  rotate: false
+  xy: 2, 2
+  size: 24, 11
+  orig: 26, 13
+  offset: 1, 1
+  index: -1
+fx/Rainbow/4
+  rotate: false
+  xy: 2, 15
+  size: 28, 12
+  orig: 30, 14
+  offset: 1, 1
+  index: -1
+fx/Rainbow/5
+  rotate: false
+  xy: 2, 29
+  size: 32, 15
+  orig: 34, 17
+  offset: 1, 1
+  index: -1
+
+Oasis_spine_1.0_4.png
+size: 29, 16
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+fx/Tear/1
+  rotate: false
+  xy: 2, 3
+  size: 8, 6
+  orig: 10, 8
+  offset: 1, 1
+  index: -1
+fx/Tear/2
+  rotate: false
+  xy: 12, 4
+  size: 9, 5
+  orig: 11, 7
+  offset: 1, 1
+  index: -1
+fx/Tear/3
+  rotate: false
+  xy: 23, 5
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+fx/Tear/4
+  rotate: true
+  xy: 23, 2
+  size: 1, 2
+  orig: 3, 4
+  offset: 1, 1
+  index: -1

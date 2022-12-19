@@ -1,0 +1,752 @@
+{
+    "skeleton": {
+        "hash": "9R6lzXLzKPM",
+        "spine": "3.8-from-4.0.64",
+        "x": -10.75,
+        "y": -3.97,
+        "width": 22,
+        "height": 28,
+        "images": "./images/",
+        "audio": "C:/Users/gonext/Documents/Animate NPC/NPC-05-RUGDOCwoman"
+    },
+    "bones": [
+        {
+            "name": "root",
+            "y": 1.02
+        },
+        {
+            "name": "bone",
+            "parent": "root",
+            "length": 3.56,
+            "rotation": 89.36,
+            "y": 0.7
+        },
+        {
+            "name": "body_bone",
+            "parent": "bone",
+            "length": 5.06,
+            "rotation": 0.64,
+            "x": 4.56,
+            "y": 0.12
+        },
+        {
+            "name": "head_bone",
+            "parent": "body_bone",
+            "length": 13.83,
+            "rotation": -1.32,
+            "x": 6.49,
+            "y": 0.17
+        },
+        {
+            "name": "hat_bone",
+            "parent": "head_bone",
+            "length": 8.77,
+            "rotation": 26.19,
+            "x": 3.76,
+            "y": -4.67
+        },
+        {
+            "name": "r_hand_bone",
+            "parent": "body_bone",
+            "length": 4.41,
+            "rotation": 148.19,
+            "x": 5.43,
+            "y": 4.53
+        },
+        {
+            "name": "l_hand_bone",
+            "parent": "body_bone",
+            "length": 4.44,
+            "rotation": -145.49,
+            "x": 5.76,
+            "y": -3.19
+        },
+        {
+            "name": "r_leg_bone",
+            "parent": "bone",
+            "length": 3.4,
+            "rotation": 144.73,
+            "x": 3.71,
+            "y": 1.86
+        },
+        {
+            "name": "l_leg-bone",
+            "parent": "bone",
+            "length": 3.24,
+            "rotation": -144.5,
+            "x": 3.66,
+            "y": -1.7
+        },
+        {
+            "name": "l_hair_bone",
+            "parent": "head_bone",
+            "length": 8.31,
+            "rotation": -164.06,
+            "x": 13.61,
+            "y": -8.02
+        },
+        {
+            "name": "r_hair_bone",
+            "parent": "head_bone",
+            "length": 8.14,
+            "rotation": 151.96,
+            "x": 13.25,
+            "y": 6.38
+        },
+        {
+            "name": "l_hand_bone2",
+            "parent": "l_hand_bone",
+            "length": 18.67,
+            "rotation": -33.76,
+            "x": -8.89,
+            "y": 8.99
+        },
+        {
+            "name": "r_hand_bone2",
+            "parent": "r_hand_bone",
+            "length": 9.93,
+            "rotation": -58.71,
+            "x": 2.37,
+            "y": 0.29
+        },
+        {
+            "name": "r_hand_bone3",
+            "parent": "r_hand_bone2",
+            "x": 14.33,
+            "y": 0.34
+        },
+        {
+            "name": "target",
+            "parent": "root",
+            "rotation": 68.21,
+            "x": -25.24,
+            "y": 8.25,
+            "color": "ff3f00ff"
+        }
+    ],
+    "slots": [
+        {
+            "name": "weapons/staff",
+            "bone": "r_hand_bone2"
+        },
+        {
+            "name": "weapons/hammer",
+            "bone": "r_hand_bone2"
+        },
+        {
+            "name": "hair-back",
+            "bone": "l_hair_bone",
+            "attachment": "hair-back"
+        },
+        {
+            "name": "l_hair_bone",
+            "bone": "l_hair_bone",
+            "attachment": "hair-back"
+        },
+        {
+            "name": "shadow_bone",
+            "bone": "root",
+            "attachment": "shadow"
+        },
+        {
+            "name": "sword2",
+            "bone": "r_hand_bone2"
+        },
+        {
+            "name": "NPC-11-whitelistgirl/shadow",
+            "bone": "root"
+        },
+        {
+            "name": "shadow",
+            "bone": "root",
+            "attachment": "shadow"
+        },
+        {
+            "name": "NPC-11-whitelistgirl1.3/head3",
+            "bone": "head_bone"
+        },
+        {
+            "name": "NPC-11-whitelistgirl1.3/head2",
+            "bone": "head_bone"
+        },
+        {
+            "name": "NPC-11-whitelistgirl1.3/head1",
+            "bone": "head_bone"
+        },
+        {
+            "name": "r_leg_bone",
+            "bone": "r_leg_bone",
+            "attachment": "shoe-back"
+        },
+        {
+            "name": "r_hand_bone",
+            "bone": "r_hand_bone",
+            "attachment": "hand-back"
+        },
+        {
+            "name": "body2",
+            "bone": "body_bone",
+            "attachment": "body2"
+        },
+        {
+            "name": "body 2",
+            "bone": "root",
+            "attachment": "body 2"
+        },
+        {
+            "name": "shoe-back",
+            "bone": "r_leg_bone",
+            "attachment": "shoe-back"
+        },
+        {
+            "name": "spear2",
+            "bone": "r_hand_bone2"
+        },
+        {
+            "name": "NPC-13-crowddreadlocks/body 2",
+            "bone": "body_bone",
+            "attachment": "body 2"
+        },
+        {
+            "name": "hand-back",
+            "bone": "r_hand_bone",
+            "attachment": "hand-back"
+        },
+        {
+            "name": "body1",
+            "bone": "body_bone",
+            "attachment": "body1"
+        },
+        {
+            "name": "body_bone",
+            "bone": "body_bone",
+            "attachment": "body"
+        },
+        {
+            "name": "body",
+            "bone": "body_bone",
+            "attachment": "body"
+        },
+        {
+            "name": "l_leg_bone",
+            "bone": "l_leg-bone",
+            "attachment": "shoe-front"
+        },
+        {
+            "name": "shoe-front",
+            "bone": "l_leg-bone",
+            "attachment": "shoe-front"
+        },
+        {
+            "name": "head1",
+            "bone": "head_bone",
+            "attachment": "head1"
+        },
+        {
+            "name": "l_hand_bone",
+            "bone": "l_hand_bone",
+            "attachment": "hand-front"
+        },
+        {
+            "name": "head2",
+            "bone": "head_bone"
+        },
+        {
+            "name": "eyes",
+            "bone": "head_bone"
+        },
+        {
+            "name": "head3",
+            "bone": "head_bone",
+            "attachment": "head3"
+        },
+        {
+            "name": "NPC-11-whitelistgirl1.3/head4",
+            "bone": "head_bone",
+            "attachment": "head1"
+        },
+        {
+            "name": "head4",
+            "bone": "root"
+        },
+        {
+            "name": "head_bone",
+            "bone": "head_bone",
+            "attachment": "head"
+        },
+        {
+            "name": "head",
+            "bone": "head_bone",
+            "attachment": "head"
+        },
+        {
+            "name": "hat_bone",
+            "bone": "hat_bone",
+            "attachment": "hat"
+        },
+        {
+            "name": "shield",
+            "bone": "l_hand_bone2"
+        },
+        {
+            "name": "NPC-01-maid/head_anim_emote2",
+            "bone": "head_bone"
+        },
+        {
+            "name": "NPC-01-maid/head_anim_emote1",
+            "bone": "head_bone",
+            "attachment": "head_anim_emote1"
+        },
+        {
+            "name": "weapon-h",
+            "bone": "r_hand_bone2"
+        },
+        {
+            "name": "mouth/head_anim_emote1",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote2",
+            "bone": "head_bone"
+        },
+        {
+            "name": "head_bone2",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote3",
+            "bone": "root"
+        },
+        {
+            "name": "head_bone3",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote4",
+            "bone": "root"
+        },
+        {
+            "name": "hat",
+            "bone": "hat_bone",
+            "attachment": "hat"
+        },
+        {
+            "name": "head_bone5",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote5",
+            "bone": "root"
+        },
+        {
+            "name": "weapon-v",
+            "bone": "l_hand_bone2",
+            "attachment": "weapon-v"
+        },
+        {
+            "name": "head_bone4",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote6",
+            "bone": "root"
+        },
+        {
+            "name": "head_bone7",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote7",
+            "bone": "root"
+        },
+        {
+            "name": "head_bone6",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote8",
+            "bone": "root"
+        },
+        {
+            "name": "head_bone9",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote9",
+            "bone": "root"
+        },
+        {
+            "name": "head_bone8",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote10",
+            "bone": "root"
+        },
+        {
+            "name": "head_bone10",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote11",
+            "bone": "root"
+        },
+        {
+            "name": "head_bone11",
+            "bone": "head_bone"
+        },
+        {
+            "name": "mouth/head_anim_emote12",
+            "bone": "root"
+        },
+        {
+            "name": "2h_gun",
+            "bone": "root"
+        },
+        {
+            "name": "hammer",
+            "bone": "root"
+        },
+        {
+            "name": "spear",
+            "bone": "root"
+        },
+        {
+            "name": "hand-front",
+            "bone": "l_hand_bone",
+            "attachment": "hand-front"
+        },
+        {
+            "name": "sword",
+            "bone": "root"
+        },
+        {
+            "name": "2h_gun2",
+            "bone": "root"
+        },
+        {
+            "name": "2h_gun3",
+            "bone": "r_hand_bone2"
+        },
+        {
+            "name": "weapons/bow",
+            "bone": "r_hand_bone3"
+        },
+        {
+            "name": "hammer2",
+            "bone": "root"
+        },
+        {
+            "name": "weapons/hammer2",
+            "bone": "root"
+        },
+        {
+            "name": "spear3",
+            "bone": "root"
+        },
+        {
+            "name": "sword3",
+            "bone": "root"
+        },
+        {
+            "name": "2h_gun4",
+            "bone": "root"
+        },
+        {
+            "name": "NPC-13-crowddreadlocks/hat",
+            "bone": "root"
+        },
+        {
+            "name": "weapons/bow2",
+            "bone": "r_hand_bone2"
+        },
+        {
+            "name": "slashnewnew/slash1",
+            "bone": "root"
+        },
+        {
+            "name": "slashnewnew/slash2",
+            "bone": "root"
+        },
+        {
+            "name": "slashnewnew/slash3",
+            "bone": "root"
+        },
+        {
+            "name": "slashnewnew/slash4",
+            "bone": "root"
+        },
+        {
+            "name": "slashnewnew/slash5",
+            "bone": "root"
+        },
+        {
+            "name": "fxfxfx/swing1",
+            "bone": "root"
+        },
+        {
+            "name": "fxfxfx/swing2",
+            "bone": "root"
+        },
+        {
+            "name": "fxfxfx/swing3",
+            "bone": "root"
+        },
+        {
+            "name": "fxfxfx/swing4",
+            "bone": "root"
+        },
+        {
+            "name": "fxfxfx/swing5",
+            "bone": "root"
+        },
+        {
+            "name": "fxfxfx/swing6",
+            "bone": "root"
+        },
+        {
+            "name": "fxfxfx/swing7",
+            "bone": "root"
+        }
+    ],
+    "ik": [
+        {
+            "name": "target",
+            "bones": [
+                "r_hand_bone2",
+                "r_hand_bone3"
+            ],
+            "target": "target"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default"
+        },
+        {
+            "name": "npc_skeleton",
+            "attachments": {
+                "body": {
+                    "body": {
+                        "name": "npc_skeleton/body",
+                        "x": 1.74,
+                        "y": -0.82,
+                        "rotation": -90,
+                        "width": 13,
+                        "height": 14
+                    }
+                },
+                "hand-back": {
+                    "hand-back": {
+                        "name": "npc_skeleton/hand-back",
+                        "x": 3.38,
+                        "y": 2.5,
+                        "rotation": 121.81,
+                        "width": 7,
+                        "height": 7
+                    }
+                },
+                "hand-front": {
+                    "hand-front": {
+                        "name": "npc_skeleton/hand-front",
+                        "x": 5.21,
+                        "y": -0.39,
+                        "rotation": 55.49,
+                        "width": 7,
+                        "height": 7
+                    }
+                },
+                "head": {
+                    "head": {
+                        "name": "npc_skeleton/head",
+                        "x": 4.26,
+                        "y": -0.39,
+                        "rotation": -88.68,
+                        "width": 16,
+                        "height": 14
+                    }
+                },
+                "shadow": {
+                    "shadow": {
+                        "name": "npc_skeleton/shadow",
+                        "x": 0.25,
+                        "y": -0.49,
+                        "width": 22,
+                        "height": 9
+                    }
+                },
+                "shield": {
+                    "shield": {
+                        "name": "npc_skeleton/shield",
+                        "x": 15.49,
+                        "y": 1.82,
+                        "rotation": 89.25,
+                        "width": 11,
+                        "height": 10
+                    }
+                },
+                "shoe-back": {
+                    "shoe-back": {
+                        "name": "npc_skeleton/shoe-back",
+                        "x": 3.62,
+                        "y": 0.85,
+                        "rotation": 125.91,
+                        "width": 7,
+                        "height": 6
+                    }
+                },
+                "shoe-front": {
+                    "shoe-front": {
+                        "name": "npc_skeleton/shoe-front",
+                        "x": 3.88,
+                        "y": -0.26,
+                        "rotation": 55.15,
+                        "width": 7,
+                        "height": 6
+                    }
+                },
+                "weapon-h": {
+                    "weapon-h": {
+                        "name": "npc_skeleton/weapon-h",
+                        "x": 3.39,
+                        "y": 1.08,
+                        "rotation": -179.43,
+                        "width": 24,
+                        "height": 9
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "idle/idle_1": {
+            "bones": {
+                "head_bone": {
+                    "translate": [
+                        {
+                            "x": -0.47
+                        },
+                        {
+                            "time": 0.0667,
+                            "x": -0.58
+                        },
+                        {
+                            "time": 0.4667,
+                            "x": 1.1
+                        },
+                        {
+                            "time": 0.8667,
+                            "x": 0.75
+                        },
+                        {
+                            "time": 1.2,
+                            "x": -0.47
+                        }
+                    ]
+                },
+                "l_hair_bone": {
+                    "rotate": [
+                        {
+                            "angle": -0.57
+                        },
+                        {
+                            "time": 0.3333,
+                            "angle": -4.96
+                        },
+                        {
+                            "time": 0.7333,
+                            "angle": 2.31
+                        },
+                        {
+                            "time": 1.1333
+                        },
+                        {
+                            "time": 1.2,
+                            "angle": -0.57
+                        }
+                    ]
+                },
+                "l_hand_bone": {
+                    "translate": [
+                        {
+                            "x": 2.13
+                        },
+                        {
+                            "time": 0.1333,
+                            "x": 2.88
+                        },
+                        {
+                            "time": 0.5333,
+                            "y": -2.3
+                        },
+                        {
+                            "time": 0.9333
+                        },
+                        {
+                            "time": 1.2,
+                            "x": 2.13
+                        }
+                    ]
+                },
+                "r_hand_bone": {
+                    "translate": [
+                        {
+                            "x": 2.13
+                        },
+                        {
+                            "time": 0.1333,
+                            "x": 2.88
+                        },
+                        {
+                            "time": 0.5333,
+                            "y": 2.5
+                        },
+                        {
+                            "time": 0.9333
+                        },
+                        {
+                            "time": 1.2,
+                            "x": 2.13
+                        }
+                    ]
+                },
+                "body_bone": {
+                    "translate": [
+                        {},
+                        {
+                            "time": 0.4,
+                            "x": 0.46,
+                            "y": -0.07
+                        },
+                        {
+                            "time": 0.8,
+                            "x": -0.49,
+                            "y": -0.08
+                        },
+                        {
+                            "time": 1.2
+                        }
+                    ]
+                },
+                "hat_bone": {
+                    "translate": [
+                        {},
+                        {
+                            "time": 0.4,
+                            "x": -0.31,
+                            "y": -0.01
+                        },
+                        {
+                            "time": 0.8,
+                            "x": 0.47,
+                            "y": 0.01
+                        },
+                        {
+                            "time": 1.2
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
